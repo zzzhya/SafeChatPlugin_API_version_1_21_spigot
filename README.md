@@ -1,7 +1,13 @@
 # SafeChatPlugin_API_version_1_21_spigot
 SafeChat Plugin for Minecraft Java Edition built with intelliJ (Spigot version 1.21 API) by zhya
 
-Easily filter out words using SafeChat
+
+
+https://github.com/user-attachments/assets/eacf22ab-d18c-41c2-97fd-34498fe7e41d
+
+
+
+Easily filter out words using SafeChat!
 Create .txt file "notallowedwords" in your server folder
 
 Add the words you want blocked each on a new line
@@ -12,6 +18,10 @@ Add the words you want blocked each on a new line
 - badword2
 
 - badword3
+
+![exampletxtfileloadedcorrectly](https://github.com/user-attachments/assets/8a15343f-dc41-4a39-a415-d1afffbacda9)
+
+SafeChat interacts dynamically using both "notallowedwords" and config.yml files (either can be adjusted for adding new words, although the .txt is easiest)
 
 Usage:
 
